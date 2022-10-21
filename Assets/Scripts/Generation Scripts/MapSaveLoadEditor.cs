@@ -1,27 +1,28 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor;
+//using UnityEditor;
 
 
+//We are unable to use the contents of this file in an executable, as the Editor will no longer exist
 
-[CustomEditor(typeof(MakeArenaArray))]
-public class MapSaveLoadEditor : Editor
-{
-    public override void OnInspectorGUI()
-    {
-        DrawDefaultInspector();
+//[CustomEditor(typeof(MakeArenaArray))]
+//public class MapSaveLoadEditor : Editor
+//{
+//    public override void OnInspectorGUI()
+//    {
+//        DrawDefaultInspector();
 
-        MakeArenaArray script = (MakeArenaArray)target;
-        if(GUILayout.Button("Save Map"))
-        {
-            script.EditorSaveMap();
-        }
+//        MakeArenaArray script = (MakeArenaArray)target;
+//        if(GUILayout.Button("Save Map"))
+//        {
+//            script.EditorSaveMap();
+//        }
 
         
-        if(GUILayout.Button("Load Map"))
-        {
-            script.EditorLoadMap();
-        }
-    }
-}
+//        if(GUILayout.Button("Load Map"))
+//        {
+//            script.EditorLoadMap();
+//        }
+//    }
+//}

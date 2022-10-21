@@ -20,8 +20,8 @@ public class MakeArenaArray : MonoBehaviour
 
     public ArenaData arena;
     public Transform boardOrigin;
-    public string saveFile;
-    public string loadFile;
+    public string saveFile = "Example";
+    public string loadFile = "Example";
 
     // Start is called before the first frame update
     void Start()
