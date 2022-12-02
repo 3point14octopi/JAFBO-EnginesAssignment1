@@ -1,6 +1,6 @@
 # JAFBO-EnginesFork
-Fork of JAFBO's Engines Assignment 2
+Fork of JAFBO's GDW game for Fall Expo
 
-Video Link: https://youtu.be/gNwk6wVN6t0 
+Link to Engines Video Report: https://youtu.be/ApyPKt9hOWY
 
-Statement of Contributions: https://docs.google.com/document/d/1bnBusNrg3VZUUDz8et2xldYYlifubz9UVLpUMa--SDc/edit?usp=sharing 
+Statement of Contributions: https://docs.google.com/document/d/1LAabHfZo9YhA5zSVb5udUD-5A6cKX7lN2Kxuc_IsxJI/edit?usp=sharing
